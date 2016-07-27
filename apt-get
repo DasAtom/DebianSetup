@@ -1,4 +1,4 @@
 #!/bin/bash
 
 exec apt-get update
-exec apt-get install i3 scrot screenfetch vim vim-nox i3-blocks nautilus chromium arc-theme gedit xfce4-terminal sudo rofi feh
+exec apt-get install i3 scrot screenfetch vim vim-nox i3-blocks nautilus chromium arc-theme gedit xfce4-terminal sudo rofi feh pactl
